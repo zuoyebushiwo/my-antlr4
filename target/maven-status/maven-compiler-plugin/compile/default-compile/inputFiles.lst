@@ -1,6 +1,13 @@
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloLexer.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitBaseVisitor.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitParser.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitBaseListener.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitMain.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitVisitor.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloVisitor.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitListener.java
+/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter02/array_init/ArrayInitLexer.java
 /Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloBaseVisitor.java
 /Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloParser.java
-/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloLexer.java
 /Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloBaseListener.java
-/Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloVisitor.java
 /Users/zhangxuejun/Documents/data/apache/my-antlr4/src/main/java/com/zuoye/github/antlr4/chapter01/hello/HelloListener.java

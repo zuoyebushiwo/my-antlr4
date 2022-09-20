@@ -1,7 +1,16 @@
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitParser.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitParser$InitContext.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitLexer.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitMain.class
+com/zuoye/github/antlr4/chapter01/hello/HelloParser.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitListener.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitParser$ValueContext.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitVisitor.class
 com/zuoye/github/antlr4/chapter01/hello/HelloParser$RContext.class
 com/zuoye/github/antlr4/chapter01/hello/HelloBaseListener.class
 com/zuoye/github/antlr4/chapter01/hello/HelloVisitor.class
 com/zuoye/github/antlr4/chapter01/hello/HelloListener.class
 com/zuoye/github/antlr4/chapter01/hello/HelloBaseVisitor.class
-com/zuoye/github/antlr4/chapter01/hello/HelloParser.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitBaseListener.class
 com/zuoye/github/antlr4/chapter01/hello/HelloLexer.class
+com/zuoye/github/antlr4/chapter02/array_init/ArrayInitBaseVisitor.class
