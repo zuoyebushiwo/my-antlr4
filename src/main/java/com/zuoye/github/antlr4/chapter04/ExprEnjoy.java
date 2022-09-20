@@ -2,7 +2,6 @@ package com.zuoye.github.antlr4.chapter04;
 
 import com.zuoye.github.antlr4.chapter04.expr.ExprLexer;
 import com.zuoye.github.antlr4.chapter04.expr.ExprParser;
-import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
